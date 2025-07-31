@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Data files
+*.pkl
+*.csv
+*.xml
+*.xsd
+*.xbrl
+
+# Index files
+faiss_index*/
+
+# OS-specific
+.DS_Store
+
+# Data Folder
+data/
+output/
+
+# Env file
+.env
